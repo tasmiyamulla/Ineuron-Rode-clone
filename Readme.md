@@ -2,7 +2,7 @@
 
 _by Tasmiya 💗_
 
-### 🔗*Live Link* -: [Rode Clone]()
+### 🔗*Live Link* -: [Rode Clone](https://tasmiya-rode-clone.netlify.app)
 
 ![Rode Clone](rode-clone.png)
 
